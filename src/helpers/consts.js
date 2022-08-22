@@ -13,4 +13,4 @@ export const LIKED = {
   GET_LIKED_LENGTH: "GET_LIKED_LENGTH",
 };
 
-export const JSON_API_PRODUCTS = "http://localhost:8000/products";
+export const JSON_API_PRODUCTS = "https://kinozone.herokuapp.com/products";
